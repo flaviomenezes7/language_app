@@ -24,10 +24,6 @@ Um aplicativo web para aprender inglês de forma personalizada e interativa, uti
   - Consulte o significado de qualquer palavra em inglês.
   - Veja explicação em português, classe gramatical e exemplos de uso.
 
-- **Histórico e Progresso**
-  - Visualize as palavras já cadastradas.
-  - Acompanhe seu progresso de aprendizado.
-
 - **Interface Moderna e Responsiva**
   - Layout limpo, intuitivo e adaptado para desktop e dispositivos móveis.
 
